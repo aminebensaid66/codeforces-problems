@@ -27,4 +27,5 @@ int main() {
         cout<<a[i]<<endl;
     }
     return 0;
+//thanks for reading the code 3>
 }
