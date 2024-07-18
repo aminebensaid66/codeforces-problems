@@ -33,6 +33,6 @@ This repository is licensed under the MIT License. See the <a href="LICENSE">LIC
 
 <h2>Contact</h2>
 
-If you have any questions or suggestions, feel free to reach out via <a href="mailto:aminebensaid66@gmail.com">your email</a> or open an issue in the repository.
+If you have any questions or suggestions, feel free to reach out via <a href="mailto:aminebensaid66@gmail.com">my  email</a> or open an issue in the repository.
 
 Happy Coding!
