@@ -10,7 +10,7 @@ Welcome to my Codeforces Solutions Repository! This repository contains my solut
   <li><strong>Comments and Explanations:</strong> Code is well-commented to explain the logic and approach used for solving each problem.</li>
 </ul>
 
-<h2>How to Use</h2>
+<h2>How to Use !</h2>
 
 <ol>
   <li><strong>Clone the Repository:</strong> Use <code>git clone https://github.com/aminebensaid66/codeforces-problems.git</code> to clone the repository.</li>
